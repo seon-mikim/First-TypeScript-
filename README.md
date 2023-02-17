@@ -1,2 +1,3 @@
-# First-TypeScript-
-I just TypeScript learn....
+# TypeScript
+
+I just TypeScript learn....:laughing:
